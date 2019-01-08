@@ -8,3 +8,4 @@ This library is currently beta. Based on jgromes "LoRaLib" library, it has been 
 * Support for digipeter functionality
 * Support for LAPRS -- A new, advanced APRS mode using LoRa modulation
 * Experimental digital voice functionality
+* Support for 144MHz and 915MHz variants of HamShield: LoRa Edition
